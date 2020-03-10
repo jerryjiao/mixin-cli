@@ -1,0 +1,24 @@
+// Generated with awesome https://github.com/wangshijun/mixin-cli
+module.exports = {
+  clientId: '<PUT YOUR DAPP CLIENT_ID HERE>',
+  clientSecret: '<PUT YOUR DAPP CLIENT_SECRET HERE>',
+  assetPin: '946264',
+  sessionId: '331ec052-66b4-475c-ba17-0ee0f745143b',
+  aesKey: 'iGGvs49zFWpjKkNWDj2rmep98qGMO/ecgCTJZyXpeV0=',
+  privateKey: `-----BEGIN RSA PRIVATE KEY-----
+MIICXAIBAAKBgQDoijYcsqph005ibpBDitahDgTwnbWkbOMO2w274Ccbyw3Qbr0h
+Yt4gVhlpBlFn810WNJqXJLsLFca7n63eTLb5NKVo6HbKwJTIvAflDytcgCkRDu3Y
+1hy8QuRTRQVaGGRPei1rRtvg/ImUpZQl5lC44DIoZAXOrgjCZEDhxQ1xGQIDAQAB
+AoGACMyyH4PjTrBgVvk4HFY0qQOOzEwrg31bWkSP0Hw6/qJAc5K9NXY4UaDwdTj3
++6cJ7r0u3GlXaqP4UUFJow/kHJeWc0ndSBZYU9uIDLQm61MDyWan9rybqy+EZlvl
+HtV33lrFUh9/2nyU1SA/lJeqMn0F8imeu4XSdeThFUOXWwECQQD91HhbKjK23y70
+ba9c1ZTllAMqnlJNmXp6rIdo7faxaFQHKe/He/ImfW2w0dN3dHGlRMqK+Tx/zrO8
+4y2ATe2FAkEA6oclXv7EQdJGzPrOCX8fw/bekZbQYkb+kBscwiHXkuLQPCGINn/v
+NEJ6qfNe5ebKnSdB0LLaYaKNEgAqs8FPhQJBAMfV2tuLIVov47u0Dve7fvovyT5o
+XsuRJYgnBIRrtGh/hogNUCVxQ3diEFXBHAdTuZUvz3YSOrs0dPUktdHpiDECQAiQ
+QLwUP2RL4kvvyIAuRSGprPzR7e/4uajXZJhuFeoGICZh7xBWYYyd9M6p1Ug9wh40
+5cFSFolEHzSODwEbSOUCQFd08cXpXuwOPs9o9tWLPEquKYPf7Irrsq87wSW3F6JE
+IT5jto1LV2cYxdnz7fwUFLaoueyAxX4DmhjU6IP9VE0=
+-----END RSA PRIVATE KEY-----
+`,
+};
